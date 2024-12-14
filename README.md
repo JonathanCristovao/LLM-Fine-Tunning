@@ -8,7 +8,7 @@ Welcome to the LLM Fine-Tuning project repository!
 
 | Notebook Title                                               | Description                                                  | Colab Code                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **1. Fine-tuning LLM with LoRA** | Details and code for efficient training of large language models using LLaMA 3. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O71t8u4FgEyzx2VBDxDnS5PgE4U5fNJo?usp=sharing) |
+| **1. Fine-tuning LLM with LoRA** | Details on Medium: [Fine-Tuning LLMs with LoRA: A Simple and Efficient Approach](https://medium.com/@jonathancristovao13/fine-tuning-llms-with-lora-a-simple-and-efficient-approach-75642a85cda8) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O71t8u4FgEyzx2VBDxDnS5PgE4U5fNJo?usp=sharing) |
 | **2. Fine-tuning LLM with Custom dataset** | ... | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) |
 
 
